@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+}
+
+.button {
+    background-color: #1E1E1E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1.6em;
+}
+
+.centeredbox{
+    display: inline-block;
+    border-style: inset;
+    border-color: rgb(43, 34, 26);
+    border-width: 5px;
+    border-radius: 10px;
+    margin: 40px auto 80px auto;
+    padding: 3px;
+    font-size: 2em;
+    text-align: center;
+}
